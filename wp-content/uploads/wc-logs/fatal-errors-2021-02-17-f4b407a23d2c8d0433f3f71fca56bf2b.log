@@ -1,0 +1,288 @@
+2021-02-17T12:39:15+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:15+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:16+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:17+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:17+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:17+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:18+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:18+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:19+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:19+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:20+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:20+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:21+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:21+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:23+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:24+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:49+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:50+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:51+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:51+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:52+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:52+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:53+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
+2021-02-17T12:39:53+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, function "sirat_customize_partial_blogdescription" not found or invalid function name in C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(287): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\apps\wordpress\htdocs\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\apps\wordpress\htdocs\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\apps\wordpress\htdocs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\xampp\\apps\\w...')
+#6 C:\xampp\apps\wordpress\htdocs\index.php(17): require('C:\\xampp\\apps\\w...')
+#7 {main}
+  thrown dans C:\xampp\apps\wordpress\htdocs\wp-includes\customize\class-wp-customize-partial.php à la ligne 221
+
